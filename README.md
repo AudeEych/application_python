@@ -1,11 +1,20 @@
-# application_python
+# Application Gares IDF
 Application sur les gares en Ile de France, pour le cours de Python de Maxime Challon, TNAH 2022-2023
-
+_(juste en dessous des badges sympatiques à placer)_
 L'application utilise le jeu de données disponible sur le site Ile de France Mobilités (consultation mars 2023):
 https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
 
+Réaliser une application lisant, modifiant et écrivant dans une base de
+données préremplie (possibilité d’utiliser les données utilisées dans l’UE3)
+a. plusieurs pages de rendus de données seront demandées, par exemple: un
+catalogue, un endpoint JSON, des cartes, des graphes, etc.
+b. la page de catalogue et le endpoint JSON devront intégrer des filtres sur les
+données. Faire de même pour les cartes et les graphes serait un plus.
+c. notions appelées: tables HTML, SQL, une bibliothèque JS pour les cartes
+et/ou les graphes.
 
-Processus d'installation: 
+## Installation : 
 Télécharger/cloner le dossier de l'application sur votre ordinateur
 
 Se rendre dans la racine de l'application
@@ -31,5 +40,5 @@ DEBUG=True
 SQLALCHEMY_DATABASE_URI:<spécifier le chemin vers la base de données SQLite créée à l'étape précédente>
 GARES_PER_PAGE=20
 
-
+## Auteurs : Thomas Chaineux, William LeRoux, Aude Eychenne
 
