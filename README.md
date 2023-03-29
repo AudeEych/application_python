@@ -40,5 +40,5 @@ DEBUG=True
 SQLALCHEMY_DATABASE_URI:<spécifier le chemin vers la base de données SQLite créée à l'étape précédente>
 GARES_PER_PAGE=20
 
-## Auteurs : Thomas Chaineux, William LeRoux, Aude Eychenne
+## Auteurs : Thomas Chaineux, William Le Roux, Aude Eychenne
 
