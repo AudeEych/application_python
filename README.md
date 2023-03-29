@@ -6,7 +6,7 @@ Réalisée dans le cadre du cours de Python de Maxime Challon, TNAH 2022-2023 av
 Réaliser une application lisant, modifiant et écrivant dans une base de
 données préremplie :
 
-a. plusieurs pages de rendus de données seront demandées, par exemple: un
+a. plusieurs pages de rendus de données demandées, par exemple: un
 catalogue, un endpoint JSON, des cartes, des graphes, etc.
 
 b. la page de catalogue et le endpoint JSON devront intégrer des filtres sur les
