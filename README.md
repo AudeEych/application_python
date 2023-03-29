@@ -2,18 +2,20 @@
 Application sur les gares en Ile de France, réalisée dans le cadre du cours de Python de Maxime Challon, TNAH 2022-2023 avec les consignes suivantes :
 
 Réaliser une application lisant, modifiant et écrivant dans une base de
-données préremplie (possibilité d’utiliser les données utilisées dans l’UE3)
+données préremplie :
+
 a. plusieurs pages de rendus de données seront demandées, par exemple: un
 catalogue, un endpoint JSON, des cartes, des graphes, etc.
+
 b. la page de catalogue et le endpoint JSON devront intégrer des filtres sur les
 données. Faire de même pour les cartes et les graphes serait un plus.
+
 c. notions appelées: tables HTML, SQL, une bibliothèque JS pour les cartes
 et/ou les graphes.
 
 L'application utilise le jeu de données disponible sur le site Ile de France Mobilités (consultation mars 2023):
 https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
 
 ## Installation : 
 Télécharger/cloner le dossier de l'application sur votre ordinateur
