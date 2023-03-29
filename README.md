@@ -1,11 +1,5 @@
-# Application Gares IDF
-Application sur les gares en Ile de France, pour le cours de Python de Maxime Challon, TNAH 2022-2023.
-
-L'application utilise le jeu de données disponible sur le site Ile de France Mobilités (consultation mars 2023):
-https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
-
+# Application Gares en Ile de France
+Application sur les gares en Ile de France, réalisée dans le cadre du cours de Python de Maxime Challon, TNAH 2022-2023 avec les consignes suivantes :
 Réaliser une application lisant, modifiant et écrivant dans une base de
 données préremplie (possibilité d’utiliser les données utilisées dans l’UE3)
 a. plusieurs pages de rendus de données seront demandées, par exemple: un
@@ -15,6 +9,13 @@ données. Faire de même pour les cartes et les graphes serait un plus.
 c. notions appelées: tables HTML, SQL, une bibliothèque JS pour les cartes
 et/ou les graphes.
 
+L'application utilise le jeu de données disponible sur le site Ile de France Mobilités (consultation mars 2023):
+https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
+
+
+
 ## Installation : 
 Télécharger/cloner le dossier de l'application sur votre ordinateur
 
@@ -22,7 +23,7 @@ Se rendre dans la racine de l'application
 installer un environnement virtuel. Sur la console Linux: 
 virtualenv env -p python3
 
-Activer l'environnement virtuel:
+* Activer l'environnement virtuel:
 source env/bin/activate
 
 Installer les modules nécessaires au fonctionnement de l'application: 
